@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Akhil-design-jpg/Dashboard/static/css/main.20f8c8f3.css",
+    "main.js": "/Akhil-design-jpg/Dashboard/static/js/main.6aa9ffc1.js",
+    "index.html": "/Akhil-design-jpg/Dashboard/index.html",
+    "main.20f8c8f3.css.map": "/Akhil-design-jpg/Dashboard/static/css/main.20f8c8f3.css.map",
+    "main.6aa9ffc1.js.map": "/Akhil-design-jpg/Dashboard/static/js/main.6aa9ffc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20f8c8f3.css",
+    "static/js/main.6aa9ffc1.js"
+  ]
+}
